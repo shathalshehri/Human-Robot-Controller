@@ -42,7 +42,7 @@ Watch the demo video to see the interface in action: [Demo Video]([https://www.e
 - **CSS**: Styling of the webpage.
 - **PHP**: Server-side scripting and handling POST requests.
 - **XAMPP**: Local server and database management.
-- 
+  
 ## 🛠️ Troubleshooting
 
 If you encounter issues after changing your database password in phpMyAdmin, you might find this resource helpful: [Solved: mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES)](https://sahilali.medium.com/solved-mysqli-real-connect-hy000-1045-access-denied-for-user-root-localhost-using-b56a9214d06a).

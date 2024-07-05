@@ -1,7 +1,7 @@
 ˚ ༘♡ ⋆｡˚˚ ༘♡ ⋆｡˚˚ ༘♡ ⋆｡˚
 
 **About This Repository:**
-This repository showcases my projects and assignments completed during the web development and NLP track of my training program at Smart Methods Company.
+This repository showcases my tasks completed during the software development track of my training program at Smart Methods Company.
 
 ---
 # 🤖 Robot Movement Control Interface

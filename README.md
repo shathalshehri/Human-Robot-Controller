@@ -18,12 +18,6 @@ This interface (`page.php`) allows you to control the robot's movement direction
 2. **POST Request**: The direction is sent as a POST request to the respective file (`F.php`, `B.php`, `L.php`, `R.php`, `S.php`).
 3. **Data Handling**: The PHP file echoes the direction and stores it in the database for further processing.
 
-## Implemented using 🛠️
-
-- **HTML**: Structure of the webpage.
-- **CSS**: Styling of the webpage.
-- **PHP**: Server-side scripting and handling POST requests.
-- **XAMPP**: Local server and database management.
 
 ## Files
 
@@ -33,7 +27,17 @@ This interface (`page.php`) allows you to control the robot's movement direction
 - `L.php`: Handles Left direction.
 - `R.php`: Handles Right direction.
 - `S.php`: Handles Stop command.
+## Demo Video
 
+Watch the demo video to see the interface in action: [Demo Video]([https://www.example.com/demo-video](https://github.com/shathalshehri/Human-Robot-Controller/blob/main/demo.mov)
+
+## Implemented using 🛠️
+
+- **HTML**: Structure of the webpage.
+- **CSS**: Styling of the webpage.
+- **PHP**: Server-side scripting and handling POST requests.
+- **XAMPP**: Local server and database management.
+- 
 ---
 
 **About This Repository:**

@@ -32,6 +32,13 @@ This interface (`page.php`) allows you to control the robot's movement direction
 - `L.php`: Handles Left direction.
 - `R.php`: Handles Right direction.
 - `S.php`: Handles Stop command.
+## 📊 Database
+
+The `Robot.sql` file includes the SQL script to set up the database. The database contains a table with the following columns:
+
+- `id`: Primary key, auto-incremented.
+- `directions`: Stores the direction commands (Forward, Backward, Left, Right, Stop).
+
 ## 🎥 Demo Video
 
 Watch the demo video to see the interface in action: [Demo Video]([https://www.example.com/demo-video](https://github.com/shathalshehri/Human-Robot-Controller/blob/main/demo.mov)

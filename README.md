@@ -1,7 +1,7 @@
 ˚ ༘♡ ⋆｡˚˚ ༘♡ ⋆｡˚˚ ༘♡ ⋆｡˚
 
 **About This Repository:**
-This repository showcases my projects and assignments completed during the web development and NLP track of my training program at Smart Methods Company.
+This repository showcases my tasks completed during the software development track of my training program at Smart Methods Company.
 
 ---
 # 🤖 Robot Movement Control Interface
@@ -41,7 +41,7 @@ The `Robot.sql` file includes the SQL script to set up the database. The databas
 
 ## 🎥 Demo Video
 
-Watch the demo video to see the interface in action: [Demo Video]([https://www.example.com/demo-video](https://github.com/shathalshehri/Human-Robot-Controller/blob/main/demo.mov)
+Watch the demo video to see the interface in action: [Demo Video](https://github.com/shathalshehri/Human-Robot-Controller/blob/main/demo.mov)
 
 ## 🧰 Implemented using 
 

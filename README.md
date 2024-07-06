@@ -1,9 +1,5 @@
 ˚ ༘♡ ⋆｡˚˚ ༘♡ ⋆｡˚˚ ༘♡ ⋆｡˚
 
-**About This Repository:**
-This repository showcases my tasks completed during the software development track of my training program at Smart Methods Company.
-
----
 # 🤖 Robot Movement Control Interface
 
 This interface (`page.php`) allows you to control the robot's movement direction. The webpage is built with HTML, CSS, and PHP, and connects to a local server using XAMPP for database management.
@@ -58,4 +54,7 @@ If you encounter issues after changing your database password in phpMyAdmin, you
 
 For setting up and installing XAMPP on a Mac, you might find this video tutorial helpful: [How to Install XAMPP on macOS](https://www.youtube.com/watch?v=ryq01KSn00o).
 
+---
+**About This Repository:**
+This repository showcases my tasks completed during the software development track of my training program at Smart Methods Company.
 
